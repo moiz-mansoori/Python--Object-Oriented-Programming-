@@ -1,0 +1,4 @@
+            # agr koi file ho tmhari or usko open krna hoto kch symbols hai or agr ham is ma kch write krna ki koshish krenge to iska data khtm hojay ga
+            # read = r --> isse ya hota h k ham file ka andr jo lkha hoga wo read krskty hai
+            # write = w --> isse ya hota h k ham new file create krskty hai or usma kch bh write krskty h
+            # append = a --> isse ya hota h k ham ek file ka andr kch sentence append krskty hai
